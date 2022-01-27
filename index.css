@@ -1,0 +1,38 @@
+body{
+  background-color: royalblue;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: lightblue;
+  border: ridge 4px lightblue;
+  background-color: white;
+  width: 300px;
+}
+
+p{
+  font-family: 'Dancing Script', cursive;
+  border: solid 4px blue;
+  background-color: lightblue;
+  width: 600px;
+  height: 75px;
+}
+
+h2{
+  font-family: 'Dancing Script', cursive;
+  color: lightblue;
+  text-decoration: underline;
+}
+
+ul{
+  font-family: 'Dancing Script', cursive;
+  border: solid 4px blue;
+  background-color: lightgreen;
+  width: 600px;
+  height: 600 px;
+}
+
+strong{
+  text-decoration: underline;
+  color: blue;
+}
